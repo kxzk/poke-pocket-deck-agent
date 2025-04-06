@@ -1,0 +1,19 @@
+[Single Energies]
+
+W -> Water
+G -> Grass
+R -> Fire
+C -> Colorless
+P -> Pscychic
+L -> Lightning
+F -> Fighting
+D -> Darkness
+M -> Metal
+
+[Compound Energies]
+
+WWC -> Water, Water, Colorless
+PC -> Psychic, Colorless
+LL -> Lightning, Lightning
+WLCC -> Water, Lightning, Colorless, Colorless
+RR -> Fire, Fire

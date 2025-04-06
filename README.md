@@ -15,4 +15,7 @@ https://my.limitlesstcg.com/builder
 # div -> class="card-text"
 https://pocket.limitlesstcg.com/cards/A1a/56
 https://pocket.limitlesstcg.com/cards/{card_set}/{card_number}
+
+# metagame list
+https://play.limitlesstcg.com/decks?game=pocket
 ```
